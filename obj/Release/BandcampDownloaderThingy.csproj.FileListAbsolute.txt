@@ -1,0 +1,10 @@
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Release\BandcampDownloaderThingy.exe.config
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Release\BandcampDownloaderThingy.exe
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Release\BandcampDownloaderThingy.pdb
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Release\taglib-sharp.dll
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Release\BandcampDownloaderThingy.exe
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Release\BandcampDownloaderThingy.pdb

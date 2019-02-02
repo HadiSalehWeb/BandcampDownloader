@@ -1,0 +1,13 @@
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\bin\Debug\BandcampDownloaderThingy.exe.config
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\bin\Debug\BandcampDownloaderThingy.exe
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\bin\Debug\BandcampDownloaderThingy.pdb
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\bin\Debug\taglib-sharp.dll
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\obj\Debug\BandcampDownloader.csprojAssemblyReference.cache
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\obj\Debug\BandcampDownloader.csproj.CoreCompileInputs.cache
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\obj\Debug\BandcampDownloader.csproj.CopyComplete
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\obj\Debug\BandcampDownloaderThingy.exe
+D:\Projects\C#\BandcampDownloader\BandcampDownloader\obj\Debug\BandcampDownloaderThingy.pdb

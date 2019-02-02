@@ -1,0 +1,36 @@
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.exe.config
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.exe
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.pdb
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\taglib-sharp.dll
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.csprojResolveAssemblyReference.cache
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.exe
+C:\Users\Hadi\documents\visual studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.pdb
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Hadi\Documents\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\policy.2.0.taglib-sharp.config
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.exe.config
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.exe
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.pdb
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\Newtonsoft.Json.dll
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\taglib-sharp.dll
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\Newtonsoft.Json.xml
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\policy.2.0.taglib-sharp.config
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.csprojResolveAssemblyReference.cache
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.csproj.CoreCompileInputs.cache
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.exe
+D:\bckb\Visual Studio 2017\Projects\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.pdb
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.exe.config
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.exe
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\BandcampDownloaderThingy.pdb
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\taglib-sharp.dll
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.csprojAssemblyReference.cache
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.csproj.CoreCompileInputs.cache
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.csproj.CopyComplete
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.exe
+D:\Projects\C#\BandcampDownloaderThingy\BandcampDownloaderThingy\obj\Debug\BandcampDownloaderThingy.pdb
